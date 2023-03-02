@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishabh-2bit
-- 👀 I’m interested in java, javascript,swift,and cutting eadge technologies.
-- 🌱 I’m currently learning swift and javascript and would love to learn python.
+- 👀 I’m interested in java, Spring boot, microservices, reactjs and cutting eadge technologies.
+- 🌱 I’m currently working on spring boot and reactjs and would love to learn python.
 - 💞️ I’m looking to collaborate on different aspiring project on javascript and java and its frameworks.
 - 📫 How to reach me - rishab2677@gmail.com
 
